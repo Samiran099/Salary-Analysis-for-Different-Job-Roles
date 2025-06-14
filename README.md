@@ -1,1 +1,1 @@
-"This project explores the variations in salaries across different Data Science job roles, analyzing how factors like location, job type, and industry influence earnings. The insights generated can help businesses identify valuable opportunities for growth and strategic hiring."
+This project explores the variations in salaries across different Data Science job roles, analyzing how factors like location, job type, and industry influence earnings. The insights generated can help businesses identify valuable opportunities for growth and strategic hiring."
